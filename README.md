@@ -1,1 +1,1 @@
-** Document of AP: https://docs-api-revenue-dashboard.vercel.app/
+** Document of API: https://docs-api-revenue-dashboard.vercel.app/
