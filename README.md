@@ -1,2 +1,5 @@
-** Document of API: https://docs-api-revenue-dashboard.vercel.app/
-**** Video demo: https://youtu.be/xkFq1ChhtSY
+## Resources
+
+**📚 API Documentation:** https://docs-api-revenue-dashboard.vercel.app/
+
+**🎥 Video Demo:** https://youtu.be/xkFq1ChhtSY
